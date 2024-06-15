@@ -1,0 +1,10 @@
+C:\Users\musta\source\repos\Harf notu hesaplama\Harf notu hesaplama\bin\Debug\Harf notu hesaplama.exe.config
+C:\Users\musta\source\repos\Harf notu hesaplama\Harf notu hesaplama\bin\Debug\Harf notu hesaplama.exe
+C:\Users\musta\source\repos\Harf notu hesaplama\Harf notu hesaplama\bin\Debug\Harf notu hesaplama.pdb
+C:\Users\musta\source\repos\Harf notu hesaplama\Harf notu hesaplama\obj\Debug\Harf notu hesaplama.csproj.AssemblyReference.cache
+C:\Users\musta\source\repos\Harf notu hesaplama\Harf notu hesaplama\obj\Debug\Harf_notu_hesaplama.Form1.resources
+C:\Users\musta\source\repos\Harf notu hesaplama\Harf notu hesaplama\obj\Debug\Harf_notu_hesaplama.Properties.Resources.resources
+C:\Users\musta\source\repos\Harf notu hesaplama\Harf notu hesaplama\obj\Debug\Harf notu hesaplama.csproj.GenerateResource.cache
+C:\Users\musta\source\repos\Harf notu hesaplama\Harf notu hesaplama\obj\Debug\Harf notu hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\Harf notu hesaplama\Harf notu hesaplama\obj\Debug\Harf notu hesaplama.exe
+C:\Users\musta\source\repos\Harf notu hesaplama\Harf notu hesaplama\obj\Debug\Harf notu hesaplama.pdb

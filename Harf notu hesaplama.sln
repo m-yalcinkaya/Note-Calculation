@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harf notu hesaplama", "Harf notu hesaplama\Harf notu hesaplama.csproj", "{6ABE5404-E8D3-4ECE-89A1-3F07151805D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ABE5404-E8D3-4ECE-89A1-3F07151805D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ABE5404-E8D3-4ECE-89A1-3F07151805D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ABE5404-E8D3-4ECE-89A1-3F07151805D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ABE5404-E8D3-4ECE-89A1-3F07151805D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F8D7533-0F73-4362-820F-E1716A45049A}
+	EndGlobalSection
+EndGlobal
